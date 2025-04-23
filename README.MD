@@ -32,7 +32,7 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/wine-quality-prediction.git
+git clone https://github.com/Sevak-Grigoryan/Wine-Quality-Prediction.git
 cd wine-quality-prediction
 ```
 
@@ -70,7 +70,3 @@ To run the project and train the model, execute the following command:
 ```bash
 python src/main.py
 ```
-
-### Expected Output:
-- **Performance Metrics:** The model's evaluation metrics (accuracy, precision, recall, F1-score) will be displayed in the console.
-- **Confusion Matrices:** Visual representations of the confusion matrices for both training (cross-validated) and test sets will be generated.
