@@ -70,7 +70,3 @@ To run the project and train the model, execute the following command:
 ```bash
 python src/main.py
 ```
-
-### Expected Output:
-- **Performance Metrics:** The model's evaluation metrics (accuracy, precision, recall, F1-score) will be displayed in the console.
-- **Confusion Matrices:** Visual representations of the confusion matrices for both training (cross-validated) and test sets will be generated.
